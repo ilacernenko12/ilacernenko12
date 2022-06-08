@@ -19,7 +19,7 @@ Hi there 👋, my name is Ilya, i'm Software Engineer
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Spring.io](https://img.shields.io/badge/-Spring.io-green?style=flat&logo=spring)
+![Spring.io](https://img.shields.io/badge/-Spring.io-05122A?style=flat&logo=spring)
 
 
 ## :telephone_receiver: CONTACTS
