@@ -10,7 +10,8 @@ Hi there, my name is Ilya, i from Minsk 👋
 
 ## 🛠 &nbsp;TECH SKILLS
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![HTML](#E34F26 https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)&nbsp;
+![css3](https://user-images.githubusercontent.com/93983025/172620022-8e43bba8-1f9a-4e26-be05-d5137d22902b.svg)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
