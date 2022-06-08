@@ -7,6 +7,8 @@ Hi there, my name is Ilya, i from Minsk 👋
  #### 🎓 &nbsp; IT OVERONE
  #### ✉️ &nbsp;You can shoot me an email at ilacernenko12@gmail.com! I'll try to respond as soon as I can.
  #### 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+ 
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;TECH SKILLS
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
