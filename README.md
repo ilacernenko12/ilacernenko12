@@ -5,6 +5,7 @@ Hi there, my name is Ilya, i from Minsk 👋
   🎓 &nbsp; Belarusian State University of Informatics and Radioelectronics
   🎓 &nbsp; Minsk Radio Engineering College
   🎓 &nbsp; IT OVERONE
+  ✉️ &nbsp;You can shoot me an email at ilacernenko12@gmail.com! I'll try to respond as soon as I can.\
 
 ## 🛠 &nbsp;Tech Skills
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
