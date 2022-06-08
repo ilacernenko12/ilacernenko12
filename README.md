@@ -16,14 +16,6 @@ Hi there, my name is Ilya, i from Minsk 👋
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Spring.io](https://img.shields.io/badge/-Spring.io-green?style=flat&logo=spring-io)
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ## :telephone_receiver: CONTACTS
 <a href="https://instagram.com/hey_mary_may/"><img src="https://img.shields.io/badge/-@hey_mary_may-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
