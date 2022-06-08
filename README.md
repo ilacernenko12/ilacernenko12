@@ -6,7 +6,7 @@ Hi there, my name is Ilya, i from Minsk 👋
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Spring.io](https://[img.shields.io/badge/-Spring.io-05122A?style=flat&logo=spring-io)(https://img.shields.io/badge/-Spring.io-green)
+![Spring.io](https://[img.shields.io/badge/-Spring.io-05122A?style=flat&logo=spring-io)(https://img.shields.io/badge/-Spring.io-green);
 ### :telephone_receiver: CONTACTS
 <a href="https://instagram.com/hey_mary_may/"><img src="https://img.shields.io/badge/-@hey_mary_may-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/chernenko5"><img src="https://img.shields.io/badge/-@hey_mary_may-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
