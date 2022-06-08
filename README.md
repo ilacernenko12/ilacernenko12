@@ -1,5 +1,11 @@
 Hi there, my name is Ilya, i from Minsk 👋
 ============
+
+### 👨🏻‍💻 &nbsp;About Me
+  🎓 &nbsp; Belarusian State University of Informatics and Radioelectronics
+  🎓 &nbsp; Minsk Radio Engineering College
+  🎓 &nbsp; IT OVERONE
+
 ### 🛠 &nbsp;Tech Skills
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
