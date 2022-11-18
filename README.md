@@ -1,4 +1,4 @@
-Hi there 👋, my name is Ilya, i'm Software Engineer 
+Hi there 👋, my name is Ilya, i'm Android developer
 ============
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="top"/>
 
